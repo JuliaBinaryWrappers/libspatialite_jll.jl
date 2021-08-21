@@ -1,0 +1,236 @@
+[[libspatialite]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8d4595ab821922d44d9ad4a8378e9ef389aaf446"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "b6efec80eac1c316eb8d5017e869b0fba49480d2a78e8e0bbd956dc78a2fc83a"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[libspatialite]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01db8f9c3a3693d30e5ee02e9fe947c168c9019e"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "4bb2f66a8b36ac1a8616640854c4ccdbe9445fe1117e7a694c5a353c47176c35"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[libspatialite]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8381d71a6918b0de9a044075f81b0e4709fafc76"
+libc = "musl"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "2c52ddb341a0e165cbd2df46b21a936fdcfb8e462cf00a2c896c6853298301bc"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.aarch64-linux-musl-cxx03.tar.gz"
+[[libspatialite]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "133993204c342684a3090287d7f8e01ffe1968aa"
+libc = "musl"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "7dbb906e1ed5c8759a5e02d42af62cbfc833f533b0843d404fbc0c14adb0cb9b"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.aarch64-linux-musl-cxx11.tar.gz"
+[[libspatialite]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "53a8eb30feca7860e7b3111640290c628f12cf2d"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "6450d6214a18663b03cb4176942e1e6299dca04b7b20816801a3bb3084d2ee91"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libspatialite]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b910c31526d82084732a82d732f9c81187b5d965"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "51c6a4ae03058157c86bfd9fa055e47e3c93d835833fb6a24ddc171c24705b0c"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libspatialite]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "60a07eabb5c923360cd3aa73a68fe0a5c9cbee11"
+libc = "musl"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "bbedf6390a15cf58b2580c73abad39c88f339396ded297725d5c84c5f75574a6"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libspatialite]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c58107f657d31722a1acca48010aac29f88eb30"
+libc = "musl"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "5e237408391e47ddfe2fcd4c8d1afcc2d4353a4873ff0d4ad9119b4153e69a87"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libspatialite]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba38f24cbaef661875b0345d7032dba07d57af44"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "b81898f494dcca888f48f1cf16c37e261a0a3876ae1ae0e53e95796e62a84e78"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.i686-linux-gnu-cxx03.tar.gz"
+[[libspatialite]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7344941ce78ede934f4067d319950d2d9100499b"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "cc1d9d8d64a8d516f1173469a4d02480c86793f98397d0c0ba069a665acf22fa"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.i686-linux-gnu-cxx11.tar.gz"
+[[libspatialite]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a603f2645782cabc44396854603b1bff3c57069f"
+libc = "musl"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "5e85819ec37807df7f982c003b7b42a29f6ae00e35db3a856d278bbd8e961b0e"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.i686-linux-musl-cxx03.tar.gz"
+[[libspatialite]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01f3dca60cf4c52b5cc8ab4c00171bbd21e8c130"
+libc = "musl"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "3fddc73fe93a1eb5f72156282b8b5c50873dd33bcce664d6f58bf17762a4cf69"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.i686-linux-musl-cxx11.tar.gz"
+[[libspatialite]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a961f76100bc703b3df4a3010e9b44f1d14ec367"
+os = "windows"
+
+    [[libspatialite.download]]
+    sha256 = "0c7c5b348dc8be75b57fd243ce2bbd336f9366c0d660fe2339dce5099ae791c8"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.i686-w64-mingw32-cxx03.tar.gz"
+[[libspatialite]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee9e93d757bc80171af931b267844aa060488fbf"
+os = "windows"
+
+    [[libspatialite.download]]
+    sha256 = "d8c5adde2ffa885da2f28eebdf43171957e9a79c0bcdc88b667082ff7d2a0d2f"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.i686-w64-mingw32-cxx11.tar.gz"
+[[libspatialite]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9445fcdad1fb522f81472a9b80fce3c5747d7174"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "2ceb2e09658ccfc70e6e3d90c7f2d710788a576842bd5f769e2d7d856779df3e"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libspatialite]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21a739a0fbbb846922bc6bc4d43b0cd70534934a"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "eed96984c5e7af72361eb62ff4175c8016e71d56bba4f48c12d8174bfafd796d"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libspatialite]]
+arch = "x86_64"
+git-tree-sha1 = "7dc6d3efeb59e23f23ea694475d06eadbbf63811"
+os = "macos"
+
+    [[libspatialite.download]]
+    sha256 = "c5a3ed31900d4a94fbb8ee44122b98802402d7014eee78f55d6839287d5f3c13"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.x86_64-apple-darwin.tar.gz"
+[[libspatialite]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3492ba1c8bd4e812f5d44c172ae37b6bc1012a9"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "7a24b5bae275c0eed6f7efe91a7af6bdd337f729095c3c9827b77c9d9a04f12a"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[libspatialite]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "472f2fce645521d231389d5b1c9b1fec567a4a5b"
+libc = "glibc"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "58292bc4e83c10c91defca599751c1ffe2383c527f2f30b9e303d506879612b6"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[libspatialite]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a77345c2457c7d4305a339f4d0ef630f7200f99f"
+libc = "musl"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "0bad9b80c5d766cecbf7fac1562330225b34af22fc19869c9aa1516a469d2a0d"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.x86_64-linux-musl-cxx03.tar.gz"
+[[libspatialite]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51bfc8bf0e01d30d4332b220f51ffa72a7588084"
+libc = "musl"
+os = "linux"
+
+    [[libspatialite.download]]
+    sha256 = "d5f82940a040a6952543abd1b3c7445094da60bc2aaaa12999b2999d6cf9f771"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.x86_64-linux-musl-cxx11.tar.gz"
+[[libspatialite]]
+arch = "x86_64"
+git-tree-sha1 = "c44e8533e49fbf76828293167d46aa2bb8f898db"
+os = "freebsd"
+
+    [[libspatialite.download]]
+    sha256 = "f31219114534ec73917a019dfb0640123af3bc8d6644cd11ca4017a7da435f56"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.x86_64-unknown-freebsd.tar.gz"
+[[libspatialite]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d8f4b703fa8cc8338391e75dcfd5a6019db0aa2a"
+os = "windows"
+
+    [[libspatialite.download]]
+    sha256 = "47aa7be67d124bbd90b520ae912a942ebf3ae9dd75a53dfe64a9d22b5c19d4f0"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libspatialite]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef33b2e9ff1d4127ea7b342f8a5bda6e66f30262"
+os = "windows"
+
+    [[libspatialite.download]]
+    sha256 = "4c4b36775e5625bd549c53d260e613de02bf3b339248cd9b45b42c7517016ad1"
+    url = "https://github.com/JuliaBinaryWrappers/libspatialite_jll.jl/releases/download/libspatialite-v5.0.1+0/libspatialite.v5.0.1.x86_64-w64-mingw32-cxx11.tar.gz"

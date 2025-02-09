@@ -1,11 +1,11 @@
 name = "libspatialite_jll"
 uuid = "a4c9d1fc-8f32-52c2-b7e7-251980156b63"
-version = "5.0.1+0"
+version = "5.1.0+0"
 
 [deps]
 PROJ_jll = "58948b4f-47e0-5654-a9ad-f609743f8632"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+OpenSSL_jll = "458c3c95-2e84-50aa-8efc-19380b2a3a95"
 GEOS_jll = "d604d12d-fa86-5845-992e-78dc15976526"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 XML2_jll = "02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a"
@@ -15,5 +15,10 @@ Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
+PROJ_jll = "902.500.100"
+OpenSSL_jll = "3.0.15"
+GEOS_jll = "~3.13.1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"

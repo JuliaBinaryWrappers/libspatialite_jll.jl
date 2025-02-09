@@ -8,13 +8,13 @@ using Libiconv_jll
 using Zlib_jll
 using XML2_jll
 JLLWrappers.@generate_wrapper_header("libspatialite")
-JLLWrappers.@declare_library_product(libspatialite, "libspatialite-4.dll")
+JLLWrappers.@declare_library_product(libspatialite, "libspatialite-5.dll")
 JLLWrappers.@declare_library_product(mod_spatialite, "mod_spatialite.dll")
 function __init__()
     JLLWrappers.@generate_init_header(SQLite_jll, GEOS_jll, PROJ_jll, Libiconv_jll, Zlib_jll, XML2_jll)
     JLLWrappers.@init_library_product(
         libspatialite,
-        "bin\\libspatialite-4.dll",
+        "bin\\libspatialite-5.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
